@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/battleBG.png</file>
+        <file>image/Bulbasaur.png</file>
+        <file>image/Bulbasaur1.png</file>
+        <file>image/Charmander.png</file>
+        <file>image/Charmander1.png</file>
+        <file>image/enemystate.png</file>
+        <file>image/Kingler.png</file>
+        <file>image/Kingler1.png</file>
+        <file>image/Lapras.png</file>
+        <file>image/Lapras1.png</file>
+        <file>image/Muk.png</file>
+        <file>image/Muk1.png</file>
+        <file>image/Pidgeotto.png</file>
+        <file>image/Pidgeotto1.png</file>
+        <file>image/Pikachu.png</file>
+        <file>image/Pikachu1.png</file>
+        <file>image/pikachuBG.png</file>
+        <file>image/Primeape.png</file>
+        <file>image/Primeape1.png</file>
+        <file>image/Snorlax.png</file>
+        <file>image/Snorlax1.png</file>
+        <file>image/Squirtle.png</file>
+        <file>image/Squirtle1.png</file>
+        <file>image/state.png</file>
+        <file>image/Tauros.png</file>
+        <file>image/Tauros1.png</file>
+        <file>image/word.png</file>
+        <file>image/information.png</file>
+    </qresource>
+</RCC>
