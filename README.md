@@ -1,0 +1,2 @@
+# pokemon-game
+C++,QT
